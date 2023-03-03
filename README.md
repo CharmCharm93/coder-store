@@ -1,2 +1,4 @@
-add Signout function
-fix CLEAR ALL bug
+1. add Signout function
+2. fix CLEAR ALL bug
+
+
